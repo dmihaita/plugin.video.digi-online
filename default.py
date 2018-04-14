@@ -144,6 +144,7 @@ def ROOT():
   if login_Enabled == "true":
     addDir('Digi Film', 'http://www.digi-online.ro/tv/digi+film/', setIcon('DigiFilm.png'))
 
+  addDir('Comedy Central', 'http://www.digi-online.ro/tv/comedy+central/', setIcon('Comedy_Central.png'))
   addDir('UTV', 'http://www.digi-online.ro/tv/utv/', setIcon('UTV.png'))
   addDir('Music Channel', 'http://www.digi-online.ro/tv/music+channel/', setIcon('MusicChannel.png'))
   addDir('Kiss TV', 'http://www.digi-online.ro/tv/kiss+tv/', setIcon('KissTV.png'))
